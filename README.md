@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Muhammad Mussab
+# 👋 Hi, I'm Mussab Hanif
 
-💻 **Full Stack Software Engineer | React, React Native & Laravel Developer | Open Source Enthusiast**
+💻 **Full Stack Software Engineer | React/NextJs, VueJs, InertiaJs, React Native, Typescript & Laravel Developer **
 
 Welcome to my GitHub!  
 I'm a passionate **Full Stack Developer** specializing in building scalable and high-performing web & mobile applications using modern technologies.
@@ -11,11 +11,11 @@ I'm a passionate **Full Stack Developer** specializing in building scalable and 
 
 - 🧩 **Specialized in:** PHP (Laravel), React.js, React Native, Inertia.js, Vue.js  
 - ⚙️ **Backend Expertise:** Laravel (APIs, Authentication, Payments, Notifications, Microservices)  
-- 🌐 **Frontend Expertise:** React, Next.js, TailwindCSS, ShadCN UI, TypeScript  
+- 🌐 **Frontend Expertise:** React, Vue, Next.js, Nuxt.js, TailwindCSS, ShadCN UI, TypeScript  
 - 📱 **Mobile Development:** React Native (Android & iOS)  
 - ☁️ **Deployment:** Vercel, AWS EC2, Nginx, PM2, Docker (basics)  
 - 💬 **Currently open to:** Full-time or remote opportunities as a Full Stack Developer  
-- 🧠 **Focus Areas:** SaaS, Marketplace Platforms, Analytics Dashboards, Fintech, and EdTech apps  
+- 🧠 **Focus Areas:** SaaS, Marketplace Platforms, Booking Platforms, AI Tool/Chatbots/Automations, Real-time Apps
 
 ---
 
